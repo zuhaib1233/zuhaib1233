@@ -1,5 +1,6 @@
 
-[![zuhaib1233](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&random=false&width=435&lines=Hi%2C+I'm+Zuhaib+Shamsher+%F0%9F%91%8B;AI+Researcher)](https://github.com/zuhaib1233)
+[![zuhaib1233](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&random=false&width=435&lines=Hi%2C+I'm+Zuhaib+Shamsher+%F0%9F%91%8B;Software+Engineer)](https://github.com/zuhaib1233)
+
 
 
 # 💫 About Me:
