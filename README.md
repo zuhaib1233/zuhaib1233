@@ -20,10 +20,6 @@ I'm pursuing a Bachelor's degree in Software Engineering, where I've worked with
 - **Tools & Platforms:** Git, GitHub, Visual Studio, VS Code, Docker, Azure, Vercel  
 - **Other:** Debugging, Version Control, Software Design Patterns
 
-### 🌱 Currently Learning
-- Advanced concepts in **React.js**  
-- Clean architecture and scalable project structures  
-- Cloud deployment and CI/CD basics
 
 ### 💬 Let's Connect
 I enjoy collaborating on impactful projects and learning from others in the tech community. Feel free to reach out for networking, project collaboration, or just a tech chat!
