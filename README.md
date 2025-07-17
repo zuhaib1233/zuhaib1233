@@ -2,7 +2,32 @@
 [![zuhaib1233](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&random=false&width=435&lines=Hi%2C+I'm+Zuhaib+Shamsher+%F0%9F%91%8B;Software+Engineer)](https://github.com/zuhaib1233)
 <br>
 # 💫 About Me:
-<br>🚀 About Me Hello! I'm Zuhaib Shamsher, a dedicated and enthusiastic Software Engineering student at Bahria University Karachi. With a passion for technology and problem-solving, I am eager to leverage my knowledge and skills to build innovative solutions and contribute to the tech community.<br><br>🎓 Education I am currently pursuing my bachelor’s degree in software engineering at Bahria University Karachi, where I have been honing my skills in various programming languages, software development methodologies, and computer science principles.<br><br>💡 Interests Web Development: Creating dynamic and responsive web applications using the MERN stack (MongoDB, Express.js, React, Node.js). Data Structures and Algorithms: Solving complex problems efficiently and optimizing code performance. Open Source Contribution: Actively contributing to open-source projects and learning from the global developer community.<br><br>🛠️ Skills Languages: JavaScript, Python, C++, Java, C# Web Technologies: HTML5, CSS3, React, Node.js, Express.js Databases: MongoDB, MySQL Tools & Platforms: Git, GitHub, AWS Others: Agile Methodologies, Test-Driven Development, CI/CD 🌱 Currently Learning I am currently diving deeper into:<br><br>Advanced React and Next.js for building scalable web applications. Cloud computing and DevOps practices to enhance my software deployment and maintenance skills. 💬 Let's Connect! I love collaborating with fellow developers and learning from diverse perspectives. Feel free to reach out if you want to discuss tech, collaborate on a project, or just have a chat about the latest trends in software engineering.<br><br>🌟 Fun Fact When I'm not coding, you can find me exploring new hiking trails, playing chess, or solving leetcode problems!<br>
+
+🚀 **Hello!** I'm **Zuhaib Shamsher**, a passionate and motivated Software Engineering student at **Bahria University Karachi**, currently entering my 7th semester. I have hands-on experience developing real-world applications and enjoy building responsive, scalable web solutions.
+
+### 🎓 Education
+I'm pursuing a Bachelor's degree in Software Engineering, where I've worked with various programming languages, databases, and modern development tools. I also completed a professional internship at **1LINK Pvt Ltd**, gaining exposure to enterprise-level software systems.
+
+### 💡 Interests
+- **Web Development:** Building dynamic, responsive web apps using **HTML, CSS, JavaScript, React**, and **ASP.NET**
+- **Backend & APIs:** Working with **FastAPI**, **C#**, and integrating **SQL Server** and **MongoDB**
+- **Microservices & Cloud:** Exploring **microservice architecture**, **Docker**, and deploying projects to platforms like **Azure** and **Vercel**
+
+### 🛠️ Skills
+- **Languages:** JavaScript, C#, Python  
+- **Web Technologies:** HTML5, CSS3, React.js, ASP.NET  
+- **Databases:** SQL Server, MongoDB  
+- **Tools & Platforms:** Git, GitHub, Visual Studio, VS Code, Docker, Azure, Vercel  
+- **Other:** Debugging, Version Control, Software Design Patterns
+
+### 🌱 Currently Learning
+- Advanced concepts in **React.js**  
+- Clean architecture and scalable project structures  
+- Cloud deployment and CI/CD basics
+
+### 💬 Let's Connect
+I enjoy collaborating on impactful projects and learning from others in the tech community. Feel free to reach out for networking, project collaboration, or just a tech chat!
+
 
 
 ## 🌐 Socials:
