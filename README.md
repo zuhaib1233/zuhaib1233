@@ -36,10 +36,6 @@ I enjoy collaborating on impactful projects and learning from others in the tech
 <div align="center">
 <img src="https://raw.githubusercontent.com/kundan-kumarr/kundan-kumarr/output/snake.svg" alt="Snake animation" />
 </div>
-<div align="center">
-  <p><strong>Profile Visitors</strong></p>
-  <img src="https://profile-counter.glitch.me/zuhaib1233/count.svg?" alt="Profile Visitor Count" />
-</div>
 
 
 # 📊 GitHub Stats:
