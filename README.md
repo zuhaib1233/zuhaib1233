@@ -35,16 +35,7 @@ I'm actively seeking opportunities in software engineering, web/mobile developme
 <img src="https://raw.githubusercontent.com/kundan-kumarr/kundan-kumarr/output/snake.svg" alt="Snake animation" />
 </div>
 
-# 📊 GitHub Metrics & Trophies:
-🏆 **Achievements Showcase**
-[![📥 Zuhaib's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zuhaib1233&theme=onerd&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-📈 **Contribution Graph**
-![Zuhaib's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zuhaib1233&theme=github-dark-neon)
-
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
